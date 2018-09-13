@@ -27,6 +27,8 @@
 *.so
 *.so.*
 *.dylib
+# Ignore temp files
+*~
 
 # Executables
 *.exe
