@@ -1,0 +1,2 @@
+This is a line added by parent.
+This is line written by program executed in child using exec().
